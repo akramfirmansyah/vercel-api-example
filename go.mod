@@ -1,6 +1,6 @@
 module github.com/akramfirmansyah/vercel-api-example
 
-go 1.20
+go 1.19
 
 require (
 	github.com/gofiber/adaptor/v2 v2.1.32
